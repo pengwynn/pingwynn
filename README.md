@@ -13,7 +13,8 @@ Questions, feedback, suggestions, etc. The right spot if you:
 - don't get or would like to purchase the tee shirt I'm wearing.
 - have feedback on a talk I gave.
 
-... or just want to say "howdy."
+... or just want to say "howdy." Just [**open an issue**][issue].
 
 [Octokit]: https://github.com/octokit/octokit.rb
 [.dotfiles]: http://dotfiles.github.io
+[issue]: https://github.com/pengwynn/pingwynn/issues
