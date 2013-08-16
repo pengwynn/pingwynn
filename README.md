@@ -9,7 +9,7 @@ Questions, feedback, suggestions, etc. The right spot if you:
 - wonder what [.dotfiles][] are anyway.
 - need/have suggestions for great singer/songwriter (alt)country artists on Rdio.
 - want to know how to get started in open source.
-- have (are considering) a job in development and want to know how level up.
+- have (are considering) a job in development and want to know how to level up.
 - don't get or would like to purchase the tee shirt I'm wearing.
 - have feedback on a talk I gave.
 
