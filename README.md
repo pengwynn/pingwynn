@@ -22,7 +22,8 @@ If you'd like me to speak at your conference or to your group, let's [get in tou
 
 #### Upcoming events:
 
-* September 6-7: [Blendconf][] - Charlotte, NC
+* <del>September 6-7: [Blendconf][] - Charlotte, NC</del> :ship:'d
+* <del>September 27: University of Houston Downtown - Houston, TX</del> :ship:'d
 * October 23-25: [API Strategy and Practice][apistrat] - SF, CA
 
 
