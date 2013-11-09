@@ -22,9 +22,9 @@ If you'd like me to speak at your conference or to your group, let's [get in tou
 
 #### Upcoming events:
 
-* <del>September 6-7: [Blendconf][] - Charlotte, NC</del> :ship:'d
-* <del>September 27: University of Houston Downtown - Houston, TX</del> :ship:'d
-* October 23-25: [API Strategy and Practice][apistrat] - SF, CA
+* <del>October 23-25: [API Strategy and Practice][apistrat] - SF, CA</del> :ship:'d
+* November 15-16: [HackTX][hacktx] - Austin, TX
+* May 21-23, 2014: [DevSum 2014][devsum] - Stockholm, Sweden
 
 
 ### Contact
@@ -49,5 +49,6 @@ and is author of several books, most recently Sass and Compass in Action (Mannin
 [contact]: #contact
 [twitter]: https://twitter.com/pengwynn
 
-[Blendconf]: http://www.blendconf.com/
 [apistrat]: http://www.apistrategyconference.com/2013SF/index.php
+[hacktx]: http://hacktx.org
+[devsum]: http://www.devsum.se
