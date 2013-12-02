@@ -22,8 +22,11 @@ If you'd like me to speak at your conference or to your group, let's [get in tou
 
 #### Upcoming events:
 
-* January 31, 2014: [NWA TechFest][techfest] - University of Arkansas, Fayetteville, AR
-* May 21-23, 2014: [DevSum 2014][devsum] - Stockholm, Sweden
+What | When | Where
+-----|-------|---------
+[NWA TechFest][techfest]| January 31, 2014| University of Arkansas, Fayetteville, AR
+[DevSum 2014][devsum]| May 21-23, 2014| Stockholm, Sweden
+
 
 
 ### Contact
