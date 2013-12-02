@@ -22,8 +22,7 @@ If you'd like me to speak at your conference or to your group, let's [get in tou
 
 #### Upcoming events:
 
-* <del>October 23-25: [API Strategy and Practice][apistrat] - SF, CA</del> :ship:'d
-* November 15-16: [HackTX][hacktx] - Austin, TX
+* January 31, 2014: [NWA TechFest][techfest] - University of Arkansas, Fayetteville, AR
 * May 21-23, 2014: [DevSum 2014][devsum] - Stockholm, Sweden
 
 
@@ -49,6 +48,5 @@ and is author of several books, most recently Sass and Compass in Action (Mannin
 [contact]: #contact
 [twitter]: https://twitter.com/pengwynn
 
-[apistrat]: http://www.apistrategyconference.com/2013SF/index.php
-[hacktx]: http://hacktx.org
+[techfest]: http://nwatechfest.com/
 [devsum]: http://www.devsum.se
