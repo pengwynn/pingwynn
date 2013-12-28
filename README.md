@@ -24,9 +24,9 @@ If you'd like me to speak at your conference or to your group, let's [get in tou
 
 What | When | Where
 -----|-------|---------
-[NWA TechFest][techfest]| January 31, 2014| University of Arkansas, Fayetteville, AR
+[NWA TechFest][techfest]| January 31| University of Arkansas, Fayetteville, AR
 [Big Ruby Conf][bigruby]| Feb 20-21|Dallas, TX
-[DevSum 2014][devsum]| May 21-23, 2014| Stockholm, Sweden
+[DevSum 2014][devsum]| May 21-23| Stockholm, Sweden
 
 
 
