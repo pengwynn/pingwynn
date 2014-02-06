@@ -17,14 +17,14 @@ Questions, feedback, suggestions, etc. The right spot if you:
 
 ### Speaking and teaching
 
-I've had the opportunity to travel the globe to speak about and teach a wide range of development topics.
+I've had the opportunity to travel the globe to speak about and teach a wide range of development topics. I usually post the decks [on my web site][talks] shortly after each event.
+
 If you'd like me to speak at your conference or to your group, let's [get in touch][contact].
 
 #### Upcoming events:
 
 What | When | Where
 -----|-------|---------
-[NWA TechFest][techfest]| January 31| University of Arkansas, Fayetteville, AR
 [Big Ruby Conf][bigruby]| Feb 20-21|Dallas, TX
 [DevSum 2014][devsum]| May 21-23| Stockholm, Sweden
 
@@ -51,7 +51,7 @@ and is author of several books, most recently Sass and Compass in Action (Mannin
 [issue]: https://github.com/pengwynn/pingwynn/issues
 [contact]: #contact
 [twitter]: https://twitter.com/pengwynn
+[talks]: http://wynnnetherland.com/talks
 
-[techfest]: http://nwatechfest.com/
 [bigruby]: http://www.bigrubyconf.com/
 [devsum]: http://www.devsum.se
