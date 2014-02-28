@@ -1,4 +1,4 @@
-### pingwynn
+### ping wynn :penguin:
 
 Questions, feedback, suggestions, etc. The right spot if you:
 
