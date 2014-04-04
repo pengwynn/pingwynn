@@ -26,6 +26,7 @@ If you'd like me to speak at your conference or to your group, let's [get in tou
 What | When | Where
 -----|-------|---------
 [DevSum 2014][devsum]| May 21-23| Stockholm, Sweden
+[OSCON 2014][oscon]| July 20-24| Portland, Oregon
 
 
 
@@ -54,3 +55,4 @@ and is author of several books, most recently Sass and Compass in Action (Mannin
 
 [bigruby]: http://www.bigrubyconf.com/
 [devsum]: http://www.devsum.se
+[oscon]: http://www.oscon.com/oscon2014
