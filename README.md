@@ -25,7 +25,8 @@ If you'd like me to speak at your conference or to your group, let's [get in tou
 
 What | When | Where
 -----|-------|---------
-[OSCON 2014][oscon]| July 20-24| Portland, Oregon
+[Dallas.rb][dallasrb]| November 11, 2014 | Addison, TX
+[SXSWi][sxsw]| March 13-17, 2015 | Austin, TX
 
 
 
@@ -52,4 +53,5 @@ and is author of several books, most recently Sass and Compass in Action (Mannin
 [twitter]: https://twitter.com/pengwynn
 [talks]: http://wynnnetherland.com/talks
 
-[oscon]: http://www.oscon.com/oscon2014
+[dallasrb]: http://www.dallasrb.org/
+[sxsw]: http://panelpicker.sxsw.com/vote/35000
