@@ -25,7 +25,7 @@ If you'd like me to speak at your conference or to your group, let's [get in tou
 
 What | When | Where
 -----|-------|---------
-[Dallas.rb][dallasrb]| November 11, 2014 | Addison, TX
+[Facebook Open Academy][foa]| January 30-February 1, 2015 | Cornell University
 [SXSWi][sxsw]| March 13-17, 2015 | Austin, TX
 
 
@@ -53,5 +53,5 @@ and is author of several books, most recently Sass and Compass in Action (Mannin
 [twitter]: https://twitter.com/pengwynn
 [talks]: http://wynnnetherland.com/talks
 
-[dallasrb]: http://www.dallasrb.org/
+[foa]: https://www.facebook.com/OpenAcademyProgram
 [sxsw]: http://panelpicker.sxsw.com/vote/35000
